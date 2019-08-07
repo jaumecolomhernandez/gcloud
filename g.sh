@@ -2,7 +2,7 @@
 
 export IMAGE_FAMILY="pytorch-latest-gpu"
 export ZONE="europe-west4-b"
-export INSTANCE_NAME="fastai-instance"
+export INSTANCE_NAME="deep-instance"
 export INSTANCE_TYPE="n1-highmem-8"
 
 
